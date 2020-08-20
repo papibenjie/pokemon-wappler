@@ -21,11 +21,11 @@
       "type": "local"
     }
   ],
-  "projectServerModel": "ASP.NET",
+  "projectServerModel": "node",
   "projectType": "web",
   "useRouting": true,
   "addBase": true,
-  "routingHandler": "iis",
+  "routingHandler": "node",
   "targets": [
     {
       "targetType": "heroku",

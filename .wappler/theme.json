@@ -1,0 +1,24 @@
+{
+  "basic": {
+    "theme": "Poypull",
+    "primary": "#7F0FFF",
+    "secondary": "#bed6d5",
+    "success": "#420084",
+    "danger": "#f2460d",
+    "info": "#7ebcfa",
+    "warning": "#ff9933",
+    "light": "#eef0f2",
+    "dark": "#000633",
+    "headings-font-family": "Numans:400",
+    "font-family-base": "Actor:400",
+    "font-family-sans-serif": "Actor:400",
+    "font-family-monospace": "Oxygen Mono:400",
+    "border-width": "3px",
+    "border-radius": ".6rem",
+    "enable-gradients": true,
+    "enable-shadows": true
+  },
+  "advanced": {
+    "enable-shadows": true
+  }
+}

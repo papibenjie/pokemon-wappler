@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "path": "/index",
+      "url": "/index.html",
+      "name": "index"
+    }
+  ]
+}

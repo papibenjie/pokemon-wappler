@@ -22,8 +22,10 @@
     }
   ],
   "projectServerModel": "ASP.NET",
-  "firebaseProjectID": "",
-  "herokuProjectID": "",
-  "gitURL": "",
-  "projectType": "web"
+  "projectType": "web",
+  "useRouting": true,
+  "addBase": true,
+  "routingHandler": "iis",
+  "targets": [],
+  "activeTarget": "Local"
 }

@@ -26,6 +26,13 @@
   "useRouting": true,
   "addBase": true,
   "routingHandler": "iis",
-  "targets": [],
-  "activeTarget": "Local"
+  "targets": [
+    {
+      "targetType": "heroku",
+      "name": "Heroku",
+      "herokuProjectID": "wappler-dofus",
+      "remoteURL": "https://wappler-dofus.herokuapp.com"
+    }
+  ],
+  "activeTarget": "Heroku"
 }

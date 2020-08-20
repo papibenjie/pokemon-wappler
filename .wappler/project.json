@@ -30,7 +30,6 @@
     {
       "targetType": "heroku",
       "name": "Heroku",
-      "herokuProjectID": "wappler-dofus",
       "remoteURL": "https://wappler-dofus.herokuapp.com"
     }
   ],
